@@ -7,7 +7,7 @@ INIT_FILE PPP_Gly_TCA_A-COA-Bys1_rxns_mod_regNoPDH.rstrt
 #INIT_FILE central_metabolism_dg0_concs.in
 LOG_FILE PPP_Gly_TCA_A-COA-Bys1_rxns_mod_reg.log
 OUT_FILE PPP_Gly_TCA_A-COA-Bys1_rxns_mod_reg.out
-sbml_file PPP_Gly_TCA_A-COA-Bys1_rxn_Simulation.sbml
+#sbml_file PPP_Gly_TCA_A-COA-Bys1_rxn_Simulation.sbml
 USE_DEQ 1
 NO_ROUND_FROM_DEQ 1
 #ODE_T_FINAL 10000
